@@ -1,0 +1,5 @@
+package me.serafim.minecraft.bedwars;
+
+public enum TimeColor {
+    BRANCO, LARANJA, MAGENTA, AZUL_CLARO, AMARELO, VERDE_CLARO, ROSA, CINZA, CINZA_CLARO, CIANO, ROXO, AZUL, MARROM, VERDE, VERMELHO, PRETO
+}

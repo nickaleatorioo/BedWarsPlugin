@@ -1,0 +1,6 @@
+name: BedWars
+main: me.serafim.minecraft.bedwars.Plugin
+authors:
+  - nickaleatorioo
+  - Marlon_366
+version: 1.0.0

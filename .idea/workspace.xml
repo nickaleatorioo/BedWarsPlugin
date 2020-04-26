@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="BedWars:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1b0c7a42-1f65-4aea-a7fb-6be280862add" name="Default Changelist" comment="Mesclando partes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/me/serafim/minecraft/bedwars/listeners/Pricipais.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/me/serafim/minecraft/bedwars/listeners/Pricipais.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1awc0eCzhKkNlm2q4ywgu5yPlmR" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Minecraft Server/plugins" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Marlon Santos\Desktop\BedWarsPlugin\src\me\serafim\minecraft\bedwars" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1b0c7a42-1f65-4aea-a7fb-6be280862add" name="Default Changelist" comment="" />
+      <created>1587649874263</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587649874263</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Acessando Database">
+      <created>1587867407496</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587867407496</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Acessando Database">
+      <created>1587870321025</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1587870321025</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Mesclando partes">
+      <created>1587913928942</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1587913928942</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Acessando Database" />
+    <MESSAGE value="Mesclando partes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mesclando partes" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser" timestamp="1587863209913">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="488" y="67" key="#com.intellij.ide.util.MemberChooser/0.0.1366.768@0.0.1366.768" timestamp="1587863209913" />
+    <state x="471" y="94" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog" timestamp="1587905685570">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="471" y="94" key="#com.intellij.openapi.roots.ui.configuration.libraryEditor.LibraryEditorDialog/0.0.1366.768@0.0.1366.768" timestamp="1587905685570" />
+    <state x="438" y="254" key="DetectedRootsChooserDialog" timestamp="1587905726170">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="438" y="254" key="DetectedRootsChooserDialog/0.0.1366.768@0.0.1366.768" timestamp="1587905726170" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1587915056423">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1587744609342" />
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.768@0.0.1366.768" timestamp="1587915056423" />
+    <state x="121" y="0" key="SettingsEditor" timestamp="1587915060260">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="121" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1587744619185" />
+    <state x="121" y="0" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1587915060260" />
+    <state x="492" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587867431670">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="492" y="297" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1587867431670" />
+    <state x="110" y="120" width="1146" height="528" key="dock-window-1" timestamp="1587862366362">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="110" y="120" width="1146" height="528" key="dock-window-1/0.0.1366.768@0.0.1366.768" timestamp="1587862366362" />
+  </component>
+</project>
